@@ -1,2 +1,2 @@
 # ReactPixabay
-Buscador de imágenes  
+Buscador de imágenes hecho con react
